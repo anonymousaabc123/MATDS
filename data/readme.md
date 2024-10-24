@@ -1,1 +1,1 @@
-Data is coming about a week!
+Data is coming in about a week!
