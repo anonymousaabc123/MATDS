@@ -1,1 +1,1 @@
-Code is coming about a weeek!
+The code is coming in about a week!
