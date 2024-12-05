@@ -1,2 +1,8 @@
-The code and dataset are coming in about a week!
-Code and dataset for MATDS: Uplift Modeling for Multi-Attribute Treatment under Distribution Shift
+The Code and dataset for the paper “MATDS: Uplift Modeling for Multi-Attribute Treatment under Distribution Shift”
+
+## The synthetic dataset
+
+
+## The public MIMIC-III dataset
+
+
