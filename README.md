@@ -31,5 +31,7 @@ In our paper, we use the cleaned MIMIC-III data of the second dimension. The dat
 | 2 |  3344   | 637 |  0.191   |
 
 ## Implementation Code
-We provide the code to implement the tensorflow version of the model in the code directory. The model structure can be reproduced in ```code\matds_model_tf.py```. However, to successfully run this implementation, company internal libraries and architectures are required. Next, we will provide an open-source version of PyTorch that does not rely on internal libraries, but it will take some time for open-source approval.
+We provide the code to implement the tensorflow version of the model in the code directory. The model structure can be reproduced in ```code\matds_model_tf.py```. However, to successfully run this implementation, company internal libraries and architectures are required. 
+
+Next, we will provide an open-source version of PyTorch that does not rely on internal libraries, but it will take some time for open-source approval.
 
