@@ -1,1 +1,1 @@
-Data is coming in about a week!
+The synthetic dataset and multiple cleaned mimic-iii data sets can be used for the multi-treatment uplift model. The time-stamped mimic-iii data can be used for distribution shift scenarios. It will take some time for business data to be publicly available.
