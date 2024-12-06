@@ -1,5 +1,4 @@
 pip install tensorflow==1.13.1 -i https://pypi.tuna.tsinghua.edu.cn/simple
-pip install alps -i https://pypi.tuna.tsinghua.edu.cn/simple
 pip install tensorcache -i https://pypi.tuna.tsinghua.edu.cn/simple
 pip install tfplus==1.0.3 -i https://pypi.tuna.tsinghua.edu.cn/simple
 pip install keras==2.0.6 -i https://pypi.tuna.tsinghua.edu.cn/simple
