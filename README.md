@@ -21,5 +21,10 @@ We cleaned three multi-treatment uplift datasets from three different dimensions
 - The impact of different disease types of treatment on discharge rates; # The duplication problem, because a user may have multiple diseases, needs to be handled
 - The impact of different drugs on discharge rate under the same disease.
 
-In our paper, we use the cleaned MIMIC-III data of the second dimension. The data generation code and analysis are in the code directory.
+In our paper, we use the cleaned MIMIC-III data of the second dimension. The data generation code and analysis are in the code directory, the data statistics are as follows
+| Treatment | Count  | Label_Sum | Response_rate |
+|:--------:| :---:|  :---: | :---:  |
+| 0 |  4880   | 219 |  0.045   |
+| 1 |  4235   | 581 |  0.137   |
+| 2 |  3344   | 637 |  0.191   |
 
